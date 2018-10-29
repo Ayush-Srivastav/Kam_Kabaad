@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398725481389",
+    "firebase_url": "https://erp-new.firebaseio.com",
+    "project_id": "erp-new",
+    "storage_bucket": "erp-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398725481389:android:a28fed4e94cd4e06",
+        "android_client_info": {
+          "package_name": "com.example.ayush.kamkabaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398725481389-sgov24vu4ddept7nlb9es7qg8rhofhse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTd51_a9Iz_5RUcxq-TZ4SCsz60QdViN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
