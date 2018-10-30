@@ -45,7 +45,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RoutingActivity"></activity>
+        <activity android:name=".RoutingActivity"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
