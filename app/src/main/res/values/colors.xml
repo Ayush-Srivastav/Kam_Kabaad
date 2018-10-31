@@ -26,10 +26,6 @@
     <color name="slide_3">#5ab55d</color>
     <color name="slide_4">#ea2d6d</color>
 
-    <color name="satisfied">#5ab55d</color>
-    <color name="pending">#fb9c25</color>
-    <color name="gray">#77808080</color>
-
     <color name="bg_border_color">#797979</color>
     <color name="bg_balloon_button_color">#C3D552</color>
     <color name="bg_help_activity">#F2F2F2</color>
